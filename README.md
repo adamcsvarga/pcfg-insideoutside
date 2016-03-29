@@ -42,6 +42,7 @@ A toy grammar is included as an example.
 	  Optionally one can provide the list of unary productions, i. e. a POS-tag for each occurring word. This way the system avoids generating all possible unary rules and reads them from `pos.txt` instead. If probabilities are not supplied in that file, a uniform probability distribution is assumed.
 	  
 	  Finally, as a cleaning-up step, the program deletes all rules that might have zero probability to avoid redundancy in calculations.
+	  
    2.
       After reading the training sentences and creating the initial PCFG, the actual training process starts. In each iteration of training, the *inside probabilities*
 	  are first calculated. 
