@@ -1,0 +1,7 @@
+NP -> astronomers 0.1
+NP -> ears 0.1
+NP -> saw 0.04
+NP -> stars 0.18
+NP -> telescopes 0.1
+P -> with 0.1
+V -> saw 0.1

@@ -1,0 +1,6 @@
+S
+NP
+VP
+PP
+V
+P
